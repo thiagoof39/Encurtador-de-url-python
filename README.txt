@@ -1,7 +1,9 @@
 ### Links Usados na AULA 1:
-    Página de download do Python: https://www.python.org/downloads/
+    Página de download do Python: 
+    https://www.python.org/downloads/
 
-    Página de download do Pycharm: https://www.jetbrains.com/pt-br/pycharm/download/
+    Página de download do Pycharm: 
+    https://www.jetbrains.com/pt-br/pycharm/download/
 
 ### Códigos usados na Aula 2:
     Criação de App
